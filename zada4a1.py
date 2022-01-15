@@ -3,6 +3,6 @@ Applications    System          Volumes         cores           etc             
 Library         Users           bin             dev             home            private         tmp             var
 
 '''
-with open ('adler.py', 'a') as file:
+with open ('trek', 'a') as file:
      file.write(dir)
 

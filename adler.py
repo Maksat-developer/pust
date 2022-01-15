@@ -8,3 +8,4 @@ for i in b:
   t_words.append(i)
 print(t_words)
 file.close()
+
